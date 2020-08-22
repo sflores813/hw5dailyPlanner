@@ -1,0 +1,77 @@
+body {
+  
+    /* image for background */
+  background-image: url(https://fsb.zobj.net/crop.php?r=Rziretjdo1iFl1YzR3o6eOvUuD3vqgb-Jh8pSKscaAhMO5mDYihYNnmpvYxWEHxGdSBJYYlfDNjrtpnVgl6XG7RHSVfw1RqHqdaxT4rROxYI2XOXFeTQ7qpaAM6vDjaTqrecWaRlmU5LxibL);
+  font-family: 'Lobster', cursive;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: 1px solid black;
+  resize: none;
+  color: #000000;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: linen;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+  padding: 10px
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  text-align: justify;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid transparent;
+}
+
+.hour {
+  text-align: center;
+  
+  background-color: whitesmoke;
+  color: black;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  
+  background-color: #969292;
+  color: white;
+}
+
+.present {
+  background-color: #d05858;
+  color: white;
+}
+
+.future {
+  background-color: #34cb37;
+  color: white;
+}
+
+.saveBtn {
+  border: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #3297ae;
+  color: linen;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
