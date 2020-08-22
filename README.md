@@ -5,4 +5,3 @@ the app runs with dynamically updated HTML and CSS and it is also powered by JQu
 https://github.com/sflores813/hw5dailyPlanner
 https://sflores813.github.io/hw5dailyPlanner/
 
-<img src = Users\sflor\Desktop\dailyPlanner\hw5dailyPlanner\images >
